@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\bin\Debug\RoutineData.exe
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\bin\Debug\RoutineData.pdb
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\bin\Debug\RoutineData.xml
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.exe
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.xml
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.pdb
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.Room.resources
+C:\Users\PC\Documents\Visual Studio 2008\Projects\RoutineData\RoutineData\obj\Debug\RoutineData.clas.resources

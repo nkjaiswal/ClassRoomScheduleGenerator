@@ -1,0 +1,4 @@
+It will not generate output if the input is too small, because it uses generic algorithm. Please use real data for correct output.
+
+1. Use RoutineData to Make a configuration file for the class schedule then
+2. Use GaSchedule to open that config file and Press Ctrl+S
